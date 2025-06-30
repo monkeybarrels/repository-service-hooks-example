@@ -1,0 +1,9 @@
+dist
+node_modules
+.env
+.env.*
+package-lock.json
+yarn.lock
+coverage
+*.min.js
+*.min.css
